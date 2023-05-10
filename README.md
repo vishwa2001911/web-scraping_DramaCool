@@ -1,4 +1,3 @@
-# web-scraping_DramaCool
 # Python Web Scraping Using BeautifulSoup and CSV for Download Link from Drama Cool Website
 
 This tutorial will teach you how to use Python Web Scraping with BeautifulSoup and CSV to get download links from Drama Cool website. 
